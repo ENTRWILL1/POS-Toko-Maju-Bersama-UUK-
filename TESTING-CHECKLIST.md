@@ -1,0 +1,21 @@
+# Checklist Uji POS
+
+- [ ] Database `pos_db` berhasil diimpor.
+- [ ] Administrator pertama berhasil dibuat.
+- [ ] Login salah ditolak.
+- [ ] Login benar membuka dashboard.
+- [ ] Administrator dapat mendaftarkan petugas.
+- [ ] Petugas dapat membuka dashboard, produk, dan transaksi.
+- [ ] Petugas tidak dapat membuka halaman registrasi pengguna.
+- [ ] Produk berhasil ditambahkan.
+- [ ] Produk berhasil diedit.
+- [ ] Pencarian produk berfungsi.
+- [ ] Produk yang belum dipakai transaksi bisa dihapus.
+- [ ] Produk yang sudah tercatat pada transaksi tidak bisa dihapus.
+- [ ] Transaksi dengan stok cukup berhasil dibuat.
+- [ ] Transaksi dengan stok tidak cukup ditolak.
+- [ ] Total transaksi sesuai penjumlahan subtotal.
+- [ ] Edit transaksi menyesuaikan stok.
+- [ ] Hapus transaksi mengembalikan stok.
+- [ ] Pencarian transaksi berfungsi.
+- [ ] Logout mengakhiri sesi.
